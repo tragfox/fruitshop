@@ -1,5 +1,5 @@
 {
-  "name": "adidas-website",
+  "name": "fruitshop-website",
   "version": "1.0.0",
   "scripts": {
     "dev": "eleventy --serve",

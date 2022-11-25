@@ -19,6 +19,6 @@ module.exports = (eleventyConfig) => {
       input: 'src',
       output: 'docs',
     },
-    pathPrefix: "/adidas/",
+    pathPrefix: "/fruitshop/",
   };
 };
